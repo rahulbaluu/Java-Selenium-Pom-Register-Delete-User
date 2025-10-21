@@ -1,0 +1,5 @@
+testCase/pages/SignupLoginPage.class
+testCase/stepdefinition/NewDeleteUserStepDef.class
+testCase/pages/LoginPage.class
+testCase/pages/RegistrationPage.class
+testCase/pages/HomePage.class
